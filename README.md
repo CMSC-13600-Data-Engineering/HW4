@@ -38,3 +38,10 @@ Next, we will `clone` this repository to linux.cs.uchicago.edu. *Note* Every yea
 Enter the cloned repository, and now, you are ready to start your assignment!
 
 Due to the size of the data that we are considering, you will mostly be using the repository to submit your code and use google collab.
+
+## Notebook
+All of your work will go into this notebook:
+https://colab.research.google.com/drive/1viRjLUiOTbpZJ31pNS69ImkLg7KY1E_M?usp=sharing
+
+## Submission
+Download your Google Collab notebook as an ipynb file and add it/push it to this repository.
