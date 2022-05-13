@@ -28,7 +28,7 @@ You'll be given a dropdown list with a list of CNET ids, please select yours and
 This will create a pre-populated repository for you with the assignment details.
 Once the repository is created, you will get a link that looks something like this:
 ```
-https://github.com/CMSC-13600-Data-Engineering/homework-3-hashing-<your github name>
+https://github.com/CMSC-13600-Data-Engineering/homework-4-final-project-<your github name>
 ```
 
 Next, we will `clone` this repository to linux.cs.uchicago.edu. *Note* Every year students cut an paste the following instructions without realizing that my CNET id is "skr" and my github username is "sjyk". Please replace those with your own.
@@ -36,3 +36,5 @@ Next, we will `clone` this repository to linux.cs.uchicago.edu. *Note* Every yea
 (cmscm13600-env) skr@linux2:~$ git clone git@github.com:CMSC-13600-Data-Engineering/homework-3-hashing-sjyk.git
 ```
 Enter the cloned repository, and now, you are ready to start your assignment!
+
+Due to the size of the data that we are considering, you will mostly be using the repository to submit your code and use google collab.
